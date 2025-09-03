@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-	<version>2.0.0.1</version>
-	<url>https://www.dropbox.com/scl/fi/c82s2ha672firi5hlpwh7/KMS25_Setup.msi?rlkey=j97gtcure16qo3y8ecccu5ie3&st=6z2g23sh&dl=1</url>
-	<changelog>https://raw.githubusercontent.com/jweps/kms-updates/refs/heads/main/changelog.txt</changelog>
-	<mandatory>false</mandatory>
+  <version>2.0.0.1</version>
+  <url>https://www.dropbox.com/scl/fi/c82s2ha672firi5hlpwh7/KMS25_Setup.msi?rlkey=j97gtcure16qo3y8ecccu5ie3&dl=1</url>
+  <changelog>https://raw.githubusercontent.com/jweps/kms-updates/main/changelog.txt</changelog>
+  <mandatory>false</mandatory>
 </item>
 
 
